@@ -1,4 +1,4 @@
-### Hi there 👋
+### Software Engineering Student 
 
 <!--
 **danielaolartebo/danielaolartebo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
+### My GitHub Stats
 <img align="left" src="https://github-readme-stats.vercel.app/api?username=danielaolartebo&show_icons=true&theme=react&include_all_commits=true&locale=en" alt="danielaolartebo" width="60%">
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=danielaolartebo&show_icons=true&theme=react&include_all_commits=true&locale=en&layout=compact" alt="danielaolartebo" width="37%">
